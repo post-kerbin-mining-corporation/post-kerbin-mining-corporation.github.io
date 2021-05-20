@@ -17,11 +17,11 @@ The pages on this site provide centralized links to repositories, screenshots, r
 
 All mods in the suite are available on Spacedock, CurseForge and GitHub. They can be manually downloaded from these locations. All mods are also available for isntallation using the [CKAN KSP mod client](https://forum.kerbalspaceprogram.com/index.php?/topic/90246-the-comprehensive-kerbal-archive-network-ckan-package-manager-v1180-19-june-2016/) for player convenience. 
 
-To stay up to date, all mods are also compatible with KSP Addon Version Checker (AVC) which provides a notification ingame when a new mod version has been uploaded. Updates will also be avilable through CKSN. 
+To stay up to date, all mods are also compatible with KSP Addon Version Checker (AVC) which provides a notification ingame when a new mod version has been uploaded. Updates will also be avilable through CKAN. 
 
 ### Community
 
-To dicuss the mods, or if you are having issues, the first point of contact should be the Forum Page linked in each mod's description on this site. A Discord server is also available. 
+To discuss the mods, or if you are having issues, the first point of contact should be the **Forum Page** linked in each mod's description on this site. A Discord server is also available. 
 
 
 If you wish to report a bug, please do so by raising an issue on the appropriate GitHub repository. 
