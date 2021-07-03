@@ -9,7 +9,7 @@ layout: page
 
 Welcome to the Post-Kerbin-Mining Corporation mod suite, which presents the set of mods that I develop for Kerbal Space Program. These include the Near Future Technologies series of mods and their companions like Station Parts Expansion and Cryo Engines. 
 
-I've divided these roughly into the [Core Mods](https://post-kerbin-mining-corporation.github.io/coremods), which provide the features players are typically looking for, and [Framework Mods](https://post-kerbin-mining-corporation.github.io/frameworks), which support and enable the cool stuff contained in the Core Mods. 
+I've divided these roughly into the [Core Mods](https://post-kerbin-mining-corporation.github.io/mods), which provide the features players are typically looking for, and [Framework Mods](https://post-kerbin-mining-corporation.github.io/frameworks), which support and enable the cool stuff contained in the Core Mods. 
 
 The pages on this site provide centralized links to repositories, screenshots, releases and download locations.
 
