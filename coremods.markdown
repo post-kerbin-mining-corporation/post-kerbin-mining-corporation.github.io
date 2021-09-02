@@ -12,7 +12,7 @@ The mods on this page are the core members of the Post Kerbin suite. They focus 
 Restock is a community project bringing together some of the best artists in the KSP community to completely rebuild the look of rocket parts in the game from scratch. Using consistent, coherent design philosophies, tasteful palettle choices and an enduring love of rocket science, we endavour to make KSP look and play great. 
 
 [![Screenshot Album][album]](https://imgur.com/a/GeUwILX) 
-[![Latest Release](https://img.shields.io/github/v/tag/post-kerbin-mining-corporation/NearFutureSpacecraft.svg?style=for-the-badge&logo=GitHub&label=latest%20release&color=green)](https://github.com/PorktoberRevolution/ReStocked/releases/latest) 
+[![Latest Release](https://img.shields.io/github/v/tag/PorktoberRevolution/ReStocked.svg?style=for-the-badge&logo=GitHub&label=latest%20release&color=green)](https://github.com/PorktoberRevolution/ReStocked/releases/latest) 
 [![Forum Thread][forum-thread]](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-1111-restock-revamping-ksps-art-ksp-111-jan-31/)
 [![Repository][source-repo]](https://github.com/PorktoberRevolution/ReStocked)
 
