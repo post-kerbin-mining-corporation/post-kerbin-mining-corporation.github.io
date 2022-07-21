@@ -15,7 +15,7 @@ The pages on this site provide centralized links to repositories, screenshots, r
 
 ### Downloading and Updating
 
-All mods in the suite are available on Spacedock, CurseForge and GitHub. They can be manually downloaded from these locations. All mods are also available for isntallation using the [CKAN KSP mod client](https://forum.kerbalspaceprogram.com/index.php?/topic/90246-the-comprehensive-kerbal-archive-network-ckan-package-manager-v1180-19-june-2016/) for player convenience. 
+All mods in the suite are available on Spacedock, CurseForge and GitHub. They can be manually downloaded from these locations. All mods are also available for installation using the [CKAN KSP mod client](https://forum.kerbalspaceprogram.com/index.php?/topic/90246-the-comprehensive-kerbal-archive-network-ckan-package-manager-v1180-19-june-2016/) for player convenience. 
 
 To stay up to date, all mods are also compatible with KSP Addon Version Checker (AVC) which provides a notification ingame when a new mod version has been uploaded. Updates will also be avilable through CKAN. 
 
